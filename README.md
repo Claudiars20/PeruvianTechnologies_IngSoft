@@ -1,6 +1,6 @@
 # Proyecto - Sistema de Tutorías
 
-_Ing. de Software I - Grupo 5_
+_Ing. de Software I - Grupo 2_
 
 ## Comenzando 🚀
 
