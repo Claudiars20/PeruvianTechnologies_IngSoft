@@ -1,10 +1,8 @@
 # Proyecto - Sistema de Tutorías
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Ing. de Software I - Grupo 5_
 
 ## Comenzando 🚀
-
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 ## Autores ✒️
 
