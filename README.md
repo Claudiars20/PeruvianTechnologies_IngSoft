@@ -3,7 +3,7 @@
 _Ing. de Software I - Grupo 2_
 
 ## Comenzando 🚀
-###**1. Filtrado de Requisitos:**
+### **1. Filtrado de Requisitos:**
 _[Documento - Modelamiento Inicial](https://docs.google.com/document/d/1M7q4YCVA49yPXfgI0AR1L0NvSsnzyWdi4P1VAVQk2mc/edit?usp=sharing)_
 _[Rastro de Requisitos](https://docs.google.com/spreadsheets/d/1BYJ_IHNg5_HUUeqMFOn-wjE-nVORuyyRQMmVdjTW3hs/edit?usp=sharing)_
 
