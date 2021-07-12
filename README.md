@@ -25,7 +25,12 @@ El orden de prioridad es del menos al más importante.
 * _[Backlog de Tareas](https://trello.com/b/q5yQTPxM/sistema-de-tutorias)_
 * _[Especificación de Requisitos](https://docs.google.com/spreadsheets/d/1iju1fKmdK9Pyzs_HZ66czx1-JXZJj_05wI7UjojMpCg/edit?usp=sharing)_
 
-### **Propuesta de Valor:**
+### **Propuesta de Valor - Formularios:**
+* _[Completar registro de horarios de tutoría]()_
+* _[Registrar fichas de tutoría]()_
+* _[Registrar informe semestral de tutoría]()_
+
+### **Propuesta de Valor - Prototipos:**
 * 
 
 ## Autores ✒️
