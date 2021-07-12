@@ -10,7 +10,7 @@ _Ing. de Software I - Grupo 2_
 ### **7. Especificación de Requisitos:**
 * _[Especificación de Requisitos](https://docs.google.com/spreadsheets/d/1iju1fKmdK9Pyzs_HZ66czx1-JXZJj_05wI7UjojMpCg/edit?usp=sharing)_
 
-### **7. Exposicion:**
+### **. Exposicion:**
 * _[documento de la exposicion](https://docs.google.com/document/d/1nrgpnV0zxcdLKr4X5W-S54RLQPquwF8mAW2g_-i6Gf4/edit)_
 
 ## Autores ✒️
