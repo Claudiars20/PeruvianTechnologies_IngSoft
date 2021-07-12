@@ -3,15 +3,28 @@
 _Ing. de Software I - Grupo 2_
 
 ## Comenzando 🚀
-### **1. Filtrado de Requisitos:**
+### **Filtrado de Requisitos:**
 * _[Documento - Modelamiento Inicial](https://docs.google.com/document/d/1M7q4YCVA49yPXfgI0AR1L0NvSsnzyWdi4P1VAVQk2mc/edit?usp=sharing)_
 * _[Rastro de Requisitos](https://docs.google.com/spreadsheets/d/1BYJ_IHNg5_HUUeqMFOn-wjE-nVORuyyRQMmVdjTW3hs/edit?usp=sharing)_
 
-### **7. Especificación de Requisitos:**
+### **Priorización de Tareas - Especificación de Requisitos:**
+* _[Priorización de Tareas]()_
+| Nº | Tareas |
+| ------------- | ------------- |
+| 1  | Completar registro de horarios de tutoría|
+| 2 | Filtrar a los estudiantes que puedan ser ayudantes de tutoría |
+| 3  |  Consultar informe de tutorías |
+| 4 |  Registrar horarios disponibles|
+| 5  | Registrar informes de estado situacional de estudiantes con R.A. |
+| 6 |  Registrar informe semestral de tutoría |
+| 7  |  Registrar fichas de tutoría |
+| 8 | Filtrar a los docentes que serán tutores  |
+El orden de prioridad es del menos al más importante.
+* _[Backlog de Tareas](https://trello.com/b/q5yQTPxM/sistema-de-tutorias)_
 * _[Especificación de Requisitos](https://docs.google.com/spreadsheets/d/1iju1fKmdK9Pyzs_HZ66czx1-JXZJj_05wI7UjojMpCg/edit?usp=sharing)_
 
-### **. Exposicion:**
-* _[documento de la exposicion](https://docs.google.com/document/d/1nrgpnV0zxcdLKr4X5W-S54RLQPquwF8mAW2g_-i6Gf4/edit)_
+### **Propuesta de Valor:**
+* 
 
 ## Autores ✒️
 * **Melissa Briggitte Espejo Franco - 171258** - [melissaespejo](https://github.com/melissaespejo)
