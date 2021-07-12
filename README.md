@@ -9,6 +9,7 @@ _Ing. de Software I - Grupo 2_
 
 ### **Priorización de Tareas - Especificación de Requisitos:**
 * _[Priorización de Tareas]()_
+
 | Nº | Tareas |
 | ------------- | ------------- |
 | 1  | Completar registro de horarios de tutoría|
@@ -19,6 +20,7 @@ _Ing. de Software I - Grupo 2_
 | 6 |  Registrar informe semestral de tutoría |
 | 7  |  Registrar fichas de tutoría |
 | 8 | Filtrar a los docentes que serán tutores  |
+
 El orden de prioridad es del menos al más importante.
 * _[Backlog de Tareas](https://trello.com/b/q5yQTPxM/sistema-de-tutorias)_
 * _[Especificación de Requisitos](https://docs.google.com/spreadsheets/d/1iju1fKmdK9Pyzs_HZ66czx1-JXZJj_05wI7UjojMpCg/edit?usp=sharing)_
