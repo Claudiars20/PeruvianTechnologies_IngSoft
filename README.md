@@ -8,7 +8,7 @@ _Ing. de Software I - Grupo 2_
 * _[Rastro de Requisitos](https://docs.google.com/spreadsheets/d/1BYJ_IHNg5_HUUeqMFOn-wjE-nVORuyyRQMmVdjTW3hs/edit?usp=sharing)_
 
 ### **Priorización de Tareas - Especificación de Requisitos:**
-* _[Priorización de Tareas - Binary Tree Search]()_
+* _[Priorización de Tareas - Binary Tree Search](https://docs.google.com/document/d/1G0_DddKeaW2VgFvwqOBm_1lks69uKMLko81iR5MCRBY/edit?usp=sharing)_
 
 | Nº | Tareas |
 | ------------- | ------------- |
