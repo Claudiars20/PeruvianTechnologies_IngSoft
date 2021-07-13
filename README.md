@@ -8,7 +8,7 @@ _Ing. de Software I - Grupo 2_
 * _[Rastro de Requisitos](https://docs.google.com/spreadsheets/d/1BYJ_IHNg5_HUUeqMFOn-wjE-nVORuyyRQMmVdjTW3hs/edit?usp=sharing)_
 
 ### **Priorización de Tareas - Especificación de Requisitos:**
-* _[Priorización de Tareas]()_
+* _[Priorización de Tareas - Binary Tree Search]()_
 
 | Nº | Tareas |
 | ------------- | ------------- |
@@ -26,9 +26,9 @@ El orden de prioridad es del menos al más importante.
 * _[Especificación de Requisitos](https://docs.google.com/spreadsheets/d/1iju1fKmdK9Pyzs_HZ66czx1-JXZJj_05wI7UjojMpCg/edit?usp=sharing)_
 
 ### **Propuesta de Valor - Formularios:**
-* _[Completar registro de horarios de tutoría]()_
-* _[Registrar fichas de tutoría]()_
-* _[Registrar informe semestral de tutoría]()_
+* _[Completar registro de horarios de tutoría](https://docs.google.com/forms/d/1-eapiA3-fniuFQQg3dk9yAqcf9Xf7Lox_J3vw0EaBK4/viewform?edit_requested=true)_
+* _[Registrar fichas de tutoría](https://docs.google.com/forms/d/1kcSa1DAu32zFrMg5ny74mCXKe-j10h5RhPoMjRhjnuQ/viewform?edit_requested=true)_
+* _[Registrar informe semestral de tutoría](https://docs.google.com/forms/d/e/1FAIpQLScmX6z6JWO1f-nP2n7xTr8GoYhuIqikCr9gZCk3XxCZmpImUw/viewform?usp=sf_link)_
 
 ### **Propuesta de Valor - Prototipos:**
 * 
