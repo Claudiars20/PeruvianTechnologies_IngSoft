@@ -31,7 +31,7 @@ El orden de prioridad es del menos al más importante.
 * _[Registrar informe semestral de tutoría](https://docs.google.com/forms/d/e/1FAIpQLScmX6z6JWO1f-nP2n7xTr8GoYhuIqikCr9gZCk3XxCZmpImUw/viewform?usp=sf_link)_
 
 ### **Propuesta de Valor - Prototipos:**
-* 
+* _[Prototipos - Requisitos](https://sistema-tutorias.netlify.app/)_
 
 ## Autores ✒️
 * **Melissa Briggitte Espejo Franco - 171258** - [melissaespejo](https://github.com/melissaespejo)
