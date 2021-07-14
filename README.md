@@ -36,7 +36,7 @@ El orden de prioridad es del menos al más importante.
 ## Autores ✒️
 * **Melissa Briggitte Espejo Franco - 171258** - [melissaespejo](https://github.com/melissaespejo)
 * **Alexander Javier Huaman Guevara - 150394** - [alexanderhg222](https://github.com/alexanderhg222)
-* **Victor Pool Huillca Herrera - 163845** - [VictorPoolHuillcaHerrera](https://github.com/VictorPoolHuillcaHerrera)
+* **Victor Pool Huillca herrera - 163845** - [VictorPoolHuillcaHerrera](https://github.com/VictorPoolHuillcaHerrera)
 * **Nadiabeth Diana Mallqui Apaza - 171063** - [Nadiabeth15](https://github.com/Nadiabeth15)
 * **Wily Muñoz Muñoz - 161369** - [WIL1707](https://github.com/WIL1707)
 * **Mileydy Ninantay Diaz - 171915** - [mile1107](https://github.com/mile1107)
