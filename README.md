@@ -1,7 +1,9 @@
 # Proyecto - Sistema de Tutorías
-
-_Ing. de Software I - Grupo 2_
-
+- **Universidad Nacional de San Antonio Abad del Cusco **
+- **Escuela Profesional de Ingenieria Informatica y de Sistemas**
+- **Ing. de Software I - Grupo 2**
+#### Docente:
+- **Quintanilla Portugal Roxana Lisette** - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
 ## Primer entregable 🚀
 ### **Filtrado de Requisitos:**
 * _[Documento - Modelamiento Inicial](https://docs.google.com/document/d/1M7q4YCVA49yPXfgI0AR1L0NvSsnzyWdi4P1VAVQk2mc/edit?usp=sharing)_
@@ -32,6 +34,8 @@ El orden de prioridad es del menos al más importante.
 
 ### **Propuesta de Valor - Prototipos:**
 * _[Prototipos - Requisitos](https://sistema-tutorias.netlify.app/)_
+
+### **Informe Final📖: https://docs.google.com/document/d/1nrgpnV0zxcdLKr4X5W-S54RLQPquwF8mAW2g_-i6Gf4/edit?usp=sharing**
 
 ## Autores ✒️
 * **Melissa Briggitte Espejo Franco - 171258** - [melissaespejo](https://github.com/melissaespejo)
