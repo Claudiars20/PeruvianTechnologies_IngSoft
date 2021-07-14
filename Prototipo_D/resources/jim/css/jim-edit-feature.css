@@ -1,0 +1,27 @@
+.offline #editButton{
+	display:none;
+}
+
+#editButton{
+	width:76px;
+	height:17px;
+	vertical-align: top;
+	margin: 1px 6px 0px 6px;
+	border-radius: 2px;
+}
+
+.highSmallButton{
+	color: #ffff;
+    text-decoration: none;
+    background-color: #21c0c0;
+    padding: 4px 6px 4px 0px;
+    display: inline-flex;
+    align-items: center;
+	justify-content: center;
+}
+
+.highSmallButton img{
+	width:14px;
+	height:14px;
+	margin-right:5px;
+}
