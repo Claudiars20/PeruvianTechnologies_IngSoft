@@ -1,5 +1,5 @@
 # Proyecto - Sistema de Tutorías
-- **Universidad Nacional de San Antonio Abad del Cusco **
+- **Universidad Nacional de San Antonio Abad del Cusco**
 - **Escuela Profesional de Ingenieria Informatica y de Sistemas**
 - **Ing. de Software I - Grupo 2**
 #### Docente:
